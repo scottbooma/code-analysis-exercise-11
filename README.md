@@ -35,14 +35,14 @@ function (actualAge){
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+|   1   |    { humanYears: 1, catYears: 15, dogYears: 15 } |
+|   2   |    { humanYears: 2, catYears: 24, dogYears: 24 } | 
+|   6   |    { humanYears: 6, catYears: 40, dogYears: 44 } | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>This program takes an input of age in human years and returns an output of what that age is in dog and cat years. Useful if you want to figure out how old your pet is in their respective years. My cat Lily is 40 in cat years.</td>
   </tr>
 </table>
 
